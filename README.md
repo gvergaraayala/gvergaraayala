@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy de **Chile** y actualmente me desempeño como **Analista de Importaciones**, contando además con experiencia en las áreas de administración, compras, abastecimiento, gestión de proveedores y coordinación logística.
+Soy de **Chile** y actualmente me desempeño como **Analista de Importaciones y compras**, contando además con experiencia en las áreas de administración, compras, abastecimiento, gestión de proveedores y coordinación logística.
 
 Me interesa complementar mi trayectoria profesional con herramientas de **Ciencia de Datos**, especialmente para el análisis de información, la automatización de procesos y la generación de soluciones basadas en datos.
 
