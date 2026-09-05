@@ -14,7 +14,6 @@ Mi objetivo profesional es integrar mi experiencia en gestión y operaciones con
 
 Me interesa formar parte de equipos y proyectos donde pueda aportar desde mi experiencia profesional y, al mismo tiempo, continuar desarrollando nuevas competencias en el área de datos.
 
-Esta versión me gusta más para ti, porque no te encierra solamente en cargos de Data Science. Deja claro que estás abierta a oportunidades relacionadas con tu experiencia anterior y también a dar el salto hacia datos. Eso amplía tu búsqueda y mantiene coherencia con tu trayectoria.
 
 ## 🎓 Formación
 
