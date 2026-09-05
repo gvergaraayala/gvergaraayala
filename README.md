@@ -6,6 +6,16 @@ Soy de **Chile** y actualmente me desempeño como **Analista de Importaciones y 
 
 Me interesa complementar mi trayectoria profesional con herramientas de **Ciencia de Datos**, especialmente para el análisis de información, la automatización de procesos y la generación de soluciones basadas en datos.
 
+Me gustaría continuar desarrollándome en el área de Ciencia de Datos, especialmente en análisis de datos, Machine Learning, automatización de procesos y visualización de información.
+
+Actualmente me encuentro en búsqueda activa de nuevas oportunidades laborales, tanto en áreas relacionadas con mi experiencia en administración, compras, abastecimiento, logística e importaciones, como en oportunidades que me permitan comenzar a aplicar y fortalecer mis conocimientos en Ciencia de Datos y análisis de información.
+
+Mi objetivo profesional es integrar mi experiencia en gestión y operaciones con las competencias que he adquirido en Ciencia de Datos, utilizando herramientas como Python, SQL, Machine Learning y análisis de datos para apoyar la toma de decisiones, optimizar procesos y generar soluciones basadas en información.
+
+Me interesa formar parte de equipos y proyectos donde pueda aportar desde mi experiencia profesional y, al mismo tiempo, continuar desarrollando nuevas competencias en el área de datos.
+
+Esta versión me gusta más para ti, porque no te encierra solamente en cargos de Data Science. Deja claro que estás abierta a oportunidades relacionadas con tu experiencia anterior y también a dar el salto hacia datos. Eso amplía tu búsqueda y mantiene coherencia con tu trayectoria.
+
 ## 🎓 Formación
 
 Soy **Técnico de Nivel Superior en Administración de Empresas** y actualmente curso **Ingeniería en Administración de Empresas**.
